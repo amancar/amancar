@@ -1,4 +1,8 @@
-### Hi there 👋
+### 这里是一人二狗主页
+
+第 ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg) 位到访者。
+
+My ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg) visitor
 
 <!--
 **amancar/amancar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
