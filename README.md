@@ -2,20 +2,24 @@
 [![](https://upload-images.jianshu.io/upload_images/2471034-4a359b4a0fcfd11d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240 "A man, a car")](https://markdown.com.cn](https://amancar.github.io/))
 
 
+这里是一人二狗 Github主页
 
-### 这里是一人二狗主页
-第 ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg) 位到访者。
-
----------
-
-### Here is 'A man, a car' home page
-My ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg) visitor
+ Here is 'A man, a car' github home page
 
 
----------
+---
 
 
-### Markdown 官方教程
+## 一人二狗 | A man，a car
+
+
+👉入口 / Click Here: [一人二狗 | A man，a car](https://amancar.github.io)
+
+
+---
+
+Markdown 官方教程
+
 Markdown 官方教程 [Markdown官方教程语法](https://markdown.com.cn/basic-syntax/)
 
 <!--
