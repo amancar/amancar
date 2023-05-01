@@ -16,7 +16,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg) visit
 
 
 ### Markdown 官方教程
-Markdown 官方教程 [Markdown官方教程语法](https://markdown.com.cn)。
+Markdown 官方教程 [Markdown官方教程语法](https://markdown.com.cn/basic-syntax/)
 
 <!--
 
