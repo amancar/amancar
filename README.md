@@ -20,7 +20,7 @@
 
 ---
 
-[![]https://upload-images.jianshu.io/upload_images/2471034-74add826ff2f59bd.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240 "A man, a car")](https://amancar.github.io/)
+[![](https://upload-images.jianshu.io/upload_images/2471034-74add826ff2f59bd.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240 "A man, a car")](https://amancar.github.io/)
 
 三条边境线，环绕中国大陆：
 沿中国“边境”的国道有3条：G219国道喀纳斯—东兴，G228国道丹东—东兴，G331国道丹东—阿勒泰。
