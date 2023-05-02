@@ -2,6 +2,8 @@
 [![](https://upload-images.jianshu.io/upload_images/2471034-4a359b4a0fcfd11d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240 "A man, a car")](https://markdown.com.cn](https://amancar.github.io/))
 
 
+
+
 这里是一人二狗 Github主页
 
  Here is 'A man, a car' github home page
@@ -18,6 +20,9 @@
 
 ---
 
+[![](https://github.com/amancar/amancar.github.io/blob/main/images/3%E6%9D%A1%E8%BE%B9%E5%A2%83%E7%BA%BF-%E5%9C%B0%E5%9B%BE.jpg?raw=true  "A man, a car")](https://amancar.github.io/)
+
+---
 Markdown 官方教程
 
 Markdown 官方教程 [Markdown官方教程语法](https://markdown.com.cn/basic-syntax/)
